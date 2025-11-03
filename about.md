@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Three Things I Can't Leave Home Without
+date: 2025-11-02
 ---
 
 <!DOCTYPE html>
