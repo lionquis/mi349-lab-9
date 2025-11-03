@@ -10,7 +10,7 @@ date: 2025-11-02
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Three Things I Can't Leave Home Without</title>
-  <link rel="stylesheet" href="/styles/screen.css">
+  <link rel="stylesheet" href="/screen.css">
 </head>
 <body>
     
